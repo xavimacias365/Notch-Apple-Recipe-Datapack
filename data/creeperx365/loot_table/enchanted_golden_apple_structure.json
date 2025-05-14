@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "An apple found in a structure...",
+                  "italic": true
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "notch"
+                ],
+                "mode": "append"
+              }
+            }
+          ],
+          "conditions": []
+        }
+      ]
+    }
+  ],
+  "functions": []
+}

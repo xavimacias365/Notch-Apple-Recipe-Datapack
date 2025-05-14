@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Notch Apple Recipe Datapack",
+            "color": "light_purple"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:enchanted_golden_apple",
+            "nbt": "[custom_model_data={strings:[\"notch\"]}]"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "notch": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "creeperx365:root"
+}
