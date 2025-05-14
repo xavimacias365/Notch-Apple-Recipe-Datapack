@@ -8,8 +8,15 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:enchanted_golden_apple",
-            "nbt": "[custom_model_data={strings:[\"notch\"]}]"
+            "id": "minecraft:enchanted_golden_apple",
+            "components": {
+                "minecraft:custom_model_data": {
+                    "strings": [
+                        "notch"
+                    ]
+                }
+            },
+            "count": 1
         },
         "frame": "task",
         "show_toast": true,

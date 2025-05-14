@@ -11,4 +11,4 @@
     playsound minecraft:block.anvil.land master @a[gamemode=creative] ~ ~ ~ 10000
 
 ### Disable datapack ###
-    datapack disable "file/Notch Apple Recipe Datapack"
+    datapack disable "file/Notch-Apple-Recipe-Datapack"
