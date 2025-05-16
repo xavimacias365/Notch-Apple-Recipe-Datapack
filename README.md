@@ -4,10 +4,10 @@ This datapack brings back the removed crafting recipe for the Enchanted Golden A
 1. Minecraft compatible version = +1.21.X (datapack tested and developed on Minecraft 1.21.5)
 2. Contains a Resourcepack (optional).
 
-If you find a bug, report it on the [DATAPACK WEBPAGE](https://www.planetminecraft.com/data-pack/notch-apple-recipe/).
+If you find a bug, have any question or suggestion, report it on the [DATAPACK WEBPAGE](https://www.planetminecraft.com/data-pack/notch-apple-recipe/).
 
 # IMPORTANT! #
-1. The Enchanted Golden Apples found in structures only give the buff if the loot was not generated beforehand (only new generated). If you already have this type of       apple, execute the following command to update it while selecting the item: 
+1. The Enchanted Golden Apples found in structures only give the buff if the loot was not generated beforehand (only new generated). If you already have this type of apple, execute the following command to update it while selecting the item: 
 
     `/function creeperx365:notch_apple/change_apple`
 
@@ -29,6 +29,8 @@ If you find a bug, report it on the [DATAPACK WEBPAGE](https://www.planetminecra
 4. [Optional] Also in game go to the `Game Menu (esc) → Options → Resource Packs...` and active the Texturepack (click on the arrow).
 
 #----------------------------#
+
 CREEPERx365's Projects - 2025
-Please do not copy, redistribute, or use any part of this resources (including textures, models and code) without explicit permission from the author.
+Please do not copy, redistribute, appropiate, or use any part of these resources (code) without explicit permission from the author.
 Only for personal use.
+I'll appreciate if you give credit if you use one of my resources.
