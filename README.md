@@ -31,6 +31,6 @@ If you find a bug, have any question or suggestion, report it on the [DATAPACK W
 #----------------------------#
 
 CREEPERx365's Projects - 2025
-Please do not copy, redistribute, appropiate, or use any part of these resources (code) without explicit permission from the author.
+Please do not copy, redistribute, appropiate, or use any part of these resources (code, textures or files) without explicit permission from the author.
 Only for personal use.
 I'll appreciate if you give credit if you use one of my resources.
