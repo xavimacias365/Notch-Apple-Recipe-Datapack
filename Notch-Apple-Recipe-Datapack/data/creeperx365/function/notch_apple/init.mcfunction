@@ -7,6 +7,10 @@
 
     playsound minecraft:entity.experience_orb.pickup master @a[gamemode=creative] ~ ~ ~ 10000
 
+# Give Datapack advancement
+    advancement grant @a[advancements={creeperx365:root=false},gamemode=creative] only creeperx365:root
+    advancement grant @a[advancements={creeperx365:notch=false},gamemode=creative] only creeperx365:notch
+
 ## Scoreboards ##
     scoreboard objectives add Enchanted_golden_apple_eaten minecraft.used:minecraft.enchanted_golden_apple
     scoreboard objectives add Enchanted_golden_apple_selected dummy

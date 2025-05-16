@@ -32,3 +32,4 @@ If you find a bug, report it on the [DATAPACK WEBPAGE](https://www.planetminecra
 CREEPERx365's Projects - 2025
 Please do not copy, redistribute, or use any part of this resources (including textures, models and code) without explicit permission from the author.
 Only for personal use.
+I'll appreciate if you give credit if you include one of my resources.
